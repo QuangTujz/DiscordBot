@@ -115,4 +115,4 @@ async def clear(ctx,amount=10):
     await ctx.channel.purge(limit=amount)
 
 
-client.run('OTUzNjA4Mjg5NjAwNTQwNzYy.YjHC7Q.1F6OScjDLIg6OgNO3zvsQ0n92CE')
+client.run('') // Insert your bot token here
