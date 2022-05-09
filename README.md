@@ -1,5 +1,5 @@
 # DiscordBot 🤖
-This bot doesn't do much. I'm still learning how to make a good bot 🤡  
+This bot doesn't do much. 
 The current bot token has been removed because of its privacy.
 ## All bot commands ##
 - .ping
